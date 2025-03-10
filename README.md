@@ -1,2 +1,5 @@
 # wetie_DL_learn
-weTIE, Korea Univ industrial management and engineering
+Korea Univ, Industrial management & engineering
+
+##OT
+1. difference of Ai/DL/ML
